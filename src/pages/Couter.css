@@ -1,0 +1,18 @@
+.couter {
+    width: 300px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.couter span {
+    display: block;
+    font-size: 3em;
+}
+
+.couter button {
+    padding: 20px;
+    font-size: 2em;
+}
